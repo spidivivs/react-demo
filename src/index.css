@@ -1,0 +1,13 @@
+body{
+    background-color: #dfdfdf;
+}
+
+.navbar{
+    background-color: purple;
+}
+
+.herosection{
+    background-color: #fff;
+    margin: 4rem;
+    padding: 4rem;
+}
